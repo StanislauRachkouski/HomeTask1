@@ -15,13 +15,14 @@ namespace HomeTask1
         public void setExp(int param)
         {
             this.exp = param;
+           
         }
 
 
         public void setSkill(int param)
         {
             this.skill = param;
-            
+
         }
 
         public void setSurname(string param)
